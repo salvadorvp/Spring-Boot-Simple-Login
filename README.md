@@ -1,5 +1,6 @@
 # Spring-Boot-Simple-Login
-A simple Spring-Boot application that shows a homepage with a login option to a dashboard page
+A simple Spring-Boot application that shows a homepage with a login option to a dashboard page.
+This was built with Spring Boot v.3.2.5 and Spring Security v.6.0
 The pom.xml file has the minimum packages required to run a simple Spring Boot application with user authentication (login page).
 
 The html web pages include the Thymeleaf library to further manipulate data sent to the user:     
