@@ -14,4 +14,5 @@ This small application has a `CustomAuthenticatorProvider` that loads the list o
 
 Given the size of this application, all controller classes could be goruped into one if the application is not expected to grow much more.
 
+![Budgets demo application homepage](index.png)
 
